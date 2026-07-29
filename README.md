@@ -3,7 +3,7 @@
 This repository is the public download channel for official AgentMug Desktop builds.
 
 - Product: https://agentmug.com
-- Portable open core: https://github.com/dahshanlabs/agentmug-core
+- Portable open core: publishing after the final reproducibility audit
 - CLI: `npm install -g @agentmug/cli`
 
 ## Security notice
